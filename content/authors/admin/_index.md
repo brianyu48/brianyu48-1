@@ -76,9 +76,10 @@ email: ''
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
+Hi, I'm Guangliang(Brian) Yu. I'm currently a Master of Quantitative Management student at Duke University's Fuqua School of Business. I received my Bachelor's degree from Wenzhou-Kean Unviersity with a major in Finance, minor in Mathematics.
 
-Alice Bighetti is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I'm self-motived, task-oriented, and data-oriented. During my undergraduate, I took part in four research projects. I published three papers as the first author on IEEE Xplore, ACM Digital, EI, CPCI , topics covering ESG investing, higher education, unemployment rate, and air pollution. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Now, I'm more focusing on business fields, using analtycal skills and business insights to solve the real world problem. I believe data is treasure and data analytcs can help a company stand out
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
