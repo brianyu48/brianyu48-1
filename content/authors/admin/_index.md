@@ -14,7 +14,7 @@ role: Candidate for Business Analytics
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Duke University
+  - name: Duke University 
     url: https://www.fuqua.duke.edu/  
 
 # Short bio (displayed in user profile at end of posts)
@@ -35,7 +35,7 @@ education:
     - course: MS in Business Analytics
       institution: Duke University, Fuqua School of Business
       year: 2023 (expected) 
-    - course: BSc in Finance, Minor in Mathematics
+    - course: BSc in Finance, minor in Mathematics
       institution: Wenzhou-Kean University
       year: 2022
 
