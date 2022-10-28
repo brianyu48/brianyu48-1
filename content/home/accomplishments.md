@@ -47,7 +47,22 @@ item:
     organization_url: https://www.cfainstitute.org/
     title: 'Chartered Financial Analyst level 1'
     url: ''
-
+  - certificate_url: https://drive.google.com/file/d/1849nGZLuTYPdeLLq5b9LsKOT-Xr_vFEh/view?usp=sharin
+    date_end: '2020-12-21'
+    date_start: '2020-07-01'
+    description: ''
+    organization: CFA
+    organization_url: https://www.cfainstitute.org/
+    title: 'Chartered Financial Analyst level 1'
+    url: ''
+  - certificate_url: https://drive.google.com/file/d/1849nGZLuTYPdeLLq5b9LsKOT-Xr_vFEh/view?usp=sharin
+    date_end: '2020-12-21'
+    date_start: '2020-07-01'
+    description: ''
+    organization: CFA
+    organization_url: https://www.cfainstitute.org/
+    title: 'Chartered Financial Analyst level 1'
+    url: ''    
 design:
   columns: '2'
 ---
