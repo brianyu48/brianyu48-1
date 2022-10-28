@@ -47,6 +47,14 @@ item:
     organization_url: https://www.datacamp.com
     title: 'Object-Oriented Programming in R'
     url: ''
+    certificate_url: https://www.datacamp.com
+    date_end: '2021-7-21'
+    date_start: ''
+    description: ''
+    organization: CFA
+    organization_url: https://drive.google.com/file/d/1849nGZLuTYPdeLLq5b9LsKOT-Xr_vFEh/view?usp=sharing
+    title: 'Charatered Financial Analyst level 1'
+    url: ''
 
 design:
   columns: '2'
