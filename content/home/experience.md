@@ -28,7 +28,7 @@ experience:
     company_logo: Kean
     location: New Jersey, United States
     date_start: '2021-01-01'
-    date_end: '2022-02-1'
+    date_end: '2022-02-01'
     description: |2-
         Responsibilities include:
         * ESG Stock Analysis
