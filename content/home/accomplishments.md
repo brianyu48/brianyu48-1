@@ -39,13 +39,13 @@ item:
     organization_url: https://www.edx.org
     title: Blockchain Fundamentals
     url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-  - certificate_url: https://www.datacamp.com
+  - certificate_url: https://drive.google.com/file/d/1849nGZLuTYPdeLLq5b9LsKOT-Xr_vFEh/view?usp=sharin
     date_end: '2020-12-21'
     date_start: '2020-07-01'
     description: ''
-    organization: DataCamp
-    organization_url: https://drive.google.com/file/d/1849nGZLuTYPdeLLq5b9LsKOT-Xr_vFEh/view?usp=sharing
-    title: 'Object-Oriented Programming in R'
+    organization: CFA
+    organization_url: https://www.cfainstitute.org/
+    title: 'Chartered Financial Analyst level 1'
     url: ''
 
 design:
