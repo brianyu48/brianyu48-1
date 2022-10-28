@@ -22,24 +22,27 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
+  - title: Research Assistant
+    company: Kean University
     company_url: ''
-    company_logo: 合鲸资本
+    company_logo: Kean
     location: California
     date_start: '2021-01-01'
     date_end: ''
     description: |2-
         Responsibilities include:
         
-        * Analysing
+        * ESG Stock Analysis
+          Used Python to analyze the 4 Chinese major indexes through the Tushare API interface and built
+          the GARCH (1,1) model to analyze the volatilities of 4 indexes, proving that ESG can’t perform 
+          better in long-term volatility
         * Modelling
         * Deploying
 
   - title: Professor of Semiconductor Physics
     company: University X
     company_url: ''
-    company_logo: Kean
+    company_logo: 合鲸资本
     location: California
     date_start: '2016-01-01'
     date_end: '2020-12-31'
