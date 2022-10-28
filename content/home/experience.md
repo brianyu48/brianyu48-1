@@ -34,13 +34,21 @@ experience:
         * ESG Stock Analysis:
             1.Used Python to analyze the 4 Chinese major indexes through the Tushare API interface and built
               the GARCH (1,1) model to analyze the volatilities of 4 indexes, proving that ESG can’t perform 
-              better in long-term volatility. 
-            2. Classified 800 stocks into four groups based on their ESG scores and period returns; applied KNN, 
+              better in long-term volatility
+            2.Classified 800 stocks into four groups based on their ESG scores and period returns; applied KNN, 
               SVM, and AdaBoost models to achieve the result that the highest accuracies of KNN (K=3) and SVM 
               (Sigmoid kernel) are 29.17% and 28.75%, no better than randomly selected accuracy (25%), 
               proving ESG can’t perform better in returns
-        * Modelling
-        * Deploying
+            3.Applied Monte Carlo Simulation to simulate 10 to 15 stocks’ portfolios among 300+ stocks to 
+              analyze the good ESG and bad ESG portfolios’ Sharp ratio performances, giving Chinese investors 
+              advice that investors shouldn’t invest all money into high-performance ESG stocks if they pursue 
+              high risk-return rate
+        * Air Quality Analysis:
+            1.Applied PCA to reduce variable dimensions from 6 to 3 and got the cumulative contribution 
+              exceeding 85%; the results show that sulfur oxides, nitrogen oxides, and other particular 
+              respiratory particulate matters still play significant roles as air pollutants in cities of China
+            2.Built TOPSIS model rank using MATLAB and got the 31 major Chinese cities’ air quality, achieving 
+              the result that air pollution is concentrated in North China and high-altitude cities
 
   - title: Consumer Goods Investment Intern
     company: Whales Captial
