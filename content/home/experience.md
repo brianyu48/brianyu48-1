@@ -38,20 +38,20 @@ experience:
         * Modelling
         * Deploying
 
-  - title: Consumer Goods Investment Intern
-    company: Whales Captial
-    company_url: 'http://whalescapital.com/'
-    company_logo: 合鲸资本
-    location: Shanghai, China
-    date_start: '2021-06-15'
-    date_end: '2021-08-27'
-    description: |2-
-        Responsibilities include:
-        * Conducted desk research, investigated more than 50 stores, analyzed the profit model of 
-          companies, and completed 57 pages analysis report, which supported the whole investment 
-          team’s decision not to invest money in start-ups in the bakery industry in China
-        * Interviewed 15+ start-up companies’ CEOs with VP and sorted out meeting minutes to facilitate 
-          further potential discussion about investment.
+  # - title: Consumer Goods Investment Intern
+  #   company: Whales Captial
+  #   company_url: 'http://whalescapital.com/'
+  #   company_logo: 合鲸资本
+  #   location: Shanghai, China
+  #   date_start: '2021-06-15'
+  #   date_end: '2021-08-27'
+  #   description: |2-
+  #       Responsibilities include:
+  #       * Conducted desk research, investigated more than 50 stores, analyzed the profit model of 
+  #         companies, and completed 57 pages analysis report, which supported the whole investment 
+  #         team’s decision not to invest money in start-ups in the bakery industry in China
+  #       * Interviewed 15+ start-up companies’ CEOs with VP and sorted out meeting minutes to facilitate 
+  #         further potential discussion about investment.
 
 design:
   columns: '2'
