@@ -31,9 +31,7 @@ experience:
     date_end: '2022-02-1'
     description: |2-
         Responsibilities include:
-        
         * ESG Stock Analysis
-
           Used Python to analyze the 4 Chinese major indexes through the Tushare API interface and built
           the GARCH (1,1) model to analyze the volatilities of 4 indexes, proving that ESG can’t perform 
           better in long-term volatility
