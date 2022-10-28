@@ -24,29 +24,36 @@ date_format: Jan 2006
 experience:
   - title: Research Assistant
     company: Kean University
-    company_url: ''
+    company_url: 'https://www.kean.edu/'
     company_logo: Kean
-    location: California
+    location: New Jersey, United States
     date_start: '2021-01-01'
-    date_end: ''
+    date_end: '2022-02-1'
     description: |2-
         Responsibilities include:
         
         * ESG Stock Analysis
+
           Used Python to analyze the 4 Chinese major indexes through the Tushare API interface and built
           the GARCH (1,1) model to analyze the volatilities of 4 indexes, proving that ESG can’t perform 
           better in long-term volatility
         * Modelling
         * Deploying
 
-  - title: Professor of Semiconductor Physics
-    company: University X
-    company_url: ''
+  - title: Consumer Goods Investment Intern
+    company: Whales Captial
+    company_url: 'http://whalescapital.com/'
     company_logo: 合鲸资本
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    location: Shanghai, China
+    date_start: '2021-06-15'
+    date_end: '2021-08-27'
+    description: |2-
+        Responsibilities include:
+        * Conducted desk research, investigated more than 50 stores, analyzed the profit model of 
+          companies, and completed 57 pages analysis report, which supported the whole investment 
+          team’s decision not to invest money in start-ups in the bakery industry in China
+        * Interviewed 15+ start-up companies’ CEOs with VP and sorted out meeting minutes to facilitate 
+          further potential discussion about investment.
 
 design:
   columns: '2'
