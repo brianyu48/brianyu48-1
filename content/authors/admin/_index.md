@@ -35,6 +35,7 @@ education:
     - course: MS in Business Analytics
       institution: Duke University, Fuqua School of Business
       year: 2023 (expected) 
+
     - course: BSc in Finance, minor in Mathematics
       institution: Wenzhou-Kean University
       year: 2022
@@ -47,12 +48,12 @@ social:
   - icon: envelope
     icon_pack: fas
     link: '/#contact'
-  - #icon: twitter
+  # - icon: twitter
     #icon_pack: fab
     #link: https://twitter.com/GeorgeCushen
     #label: Follow me on Twitter
-    #display:
-    #  header: true
+    # display:
+    #   header: true
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
     link: https://scholar.google.com/citations?user=UcmhwxsAAAAJ&hl=en
@@ -66,9 +67,9 @@ social:
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
 # and uncomment the lines below.
-  - icon: cv
-    icon_pack: ai
-    link: uploads/resume.pdf
+# - icon: cv
+#   icon_pack: ai
+#   link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
@@ -76,10 +77,9 @@ email: ''
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-Hi, I'm Guangliang(Brian) Yu. I'm currently a Master of Quantitative Management student at Duke University's Fuqua School of Business. I received my Bachelor's degree from Wenzhou-Kean Unviersity with a major in Finance, minor in Mathematics.
 
-I'm self-motived, task-oriented, and data-oriented. During my undergraduate, I took part in four research projects. I published three papers as the first author on IEEE Xplore, ACM Digital, EI, CPCI , topics covering ESG investing, higher education, unemployment rate, and air pollution. 
+Alice Bighetti is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 
-Now, I'm more focusing on business fields, using analtycal skills and business insights to solve the real world problem. I believe data is treasure and data analytcs can help a company stand out
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
