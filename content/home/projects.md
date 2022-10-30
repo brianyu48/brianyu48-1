@@ -31,7 +31,8 @@ content:
       tag: Deep Learning
     - name: Other
       tag: Demo
-
+    - name: Data Science
+      tag: Deep Learning
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
   columns: '1'
