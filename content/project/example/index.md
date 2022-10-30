@@ -1,6 +1,6 @@
 ---
-title: Example Project
-summary: An example of using the in-built project page.
+title: Red Wine Promotion Project
+summary: EDA, Unsupervised Learning, Supervised Learning, Consulting
 tags:
   - Data Science
 date: '2016-04-27T00:00:00Z'
@@ -9,7 +9,7 @@ date: '2016-04-27T00:00:00Z'
 external_link: ''
 
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: featured1
   focal_point: Smart
 
 links:
