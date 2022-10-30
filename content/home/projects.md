@@ -30,7 +30,7 @@ content:
     - name: Statistics
       tag: Statistics
     - name: Data Science
-      tag: Deep Learning
+      tag: Data Science
     - name: Economics
       tag: Economics
 design:
