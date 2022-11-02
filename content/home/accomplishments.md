@@ -43,7 +43,7 @@ item:
     date_end: '2020-07-20'
     date_start: '2020-07-20'
     description: ''
-    organization: frm
+    organization: cfa2
     organization_url: https://www.cfainstitute.org/
     title: 'Chartered Financial Analyst level 1'
     url: ''
